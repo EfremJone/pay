@@ -1,0 +1,1 @@
+web gunicorn danenegy.wsgi:application --log-file -
